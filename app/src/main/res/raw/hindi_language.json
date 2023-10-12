@@ -1,0 +1,18 @@
+{
+  "signIn": "साइन इन करें",
+  "enterEmailID": "ई-मेल आई.डी. डालें",
+  "enterPIN": "पास वर्ड दर्ज करें",
+  "forgotPin": "पासवर्ड भूल गए",
+  "signUpRegister": "साइन अप करें/ रजिस्टर करें",
+  "enterName": "नाम डालें",
+  "enterMobileNumber": "मोबाइल नंबर डालें",
+  "pincode": "पिन कोड",
+  "gender": "लिंग",
+  "address": "पता",
+  "submit": "सबमिट",
+  "loginSuccess": "लॉगइन सफल",
+  "newCustomerAddedSuccessfully": "सफलतापूर्वक पंजीकृत",
+  "somethingWentWrong": "कुछ गड़बड़ी हुई है",
+  "male":"पुरुष",
+  "female":"महिला"
+}

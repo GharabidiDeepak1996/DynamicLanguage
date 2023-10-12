@@ -1,0 +1,19 @@
+{
+  "signIn": "Sign in",
+  "enterEmailID": "Enter Email ID",
+  "enterPIN": "Enter Password",
+  "forgotPin": "Forgot Password",
+  "signUpRegister": "Sign Up/Register",
+  "enterName": "Enter Name",
+  "enterMobileNumber": "Enter mobile number",
+  "pincode": "Pincode",
+  "gender": "Gender",
+  "address": "Address",
+  "submit": "Submit",
+  "loginSuccess": "login successful",
+  "newCustomerAddedSuccessfully": "Registered successfully",
+  "somethingWentWrong": "Something went wrong",
+  "male":"Male",
+  "female":"Female"
+
+}
